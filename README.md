@@ -17,7 +17,7 @@ Also, you may wanna edit the path in the notebook for the working directory.
 
 1. `early_training_phase_diagram.ipynb`: This notebook reproduces the early training results for FCNs trained on CIFAR10 using MSE loss.
 
-2. `early_t'raining_phase_diagram_zeros.ipynb`: This notebook reproduces the early training results for FCNs where the last layer is initialized to zero.
+2. `early_training_phase_diagram_zeros.ipynb`: This notebook reproduces the early training results for FCNs where the last layer is initialized to zero.
 
 The above notebooks require that the following util scripts are in the same directory:
 * `model_utils.py`
